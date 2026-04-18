@@ -1,4 +1,4 @@
-# QA-Testing-Portfolio
+# practiz-qa-test-cases
 What project you tested: VWO (Register Page)
 
 Testing types used:
